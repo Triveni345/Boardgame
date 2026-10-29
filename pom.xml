@@ -126,11 +126,11 @@
 
 	 <distributionManagement>
         <repository>
-            <id>maven-releases</id>
+            <id>nexus-releases</id>
             <url>http://16.113.84.107:8081/#browse/browse:maven-releases</url>
         </repository>
         <snapshotRepository>
-            <id>maven-snapshots</id>
+            <id>nexus-snapshots</id>
             <url>http://16.113.84.107:8081/#browse/browse:maven-snapshots</url>
         </snapshotRepository>
     </distributionManagement>
